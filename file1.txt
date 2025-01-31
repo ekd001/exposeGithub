@@ -1,6 +1,2 @@
-"Hello word!" 
-"Thank you"
-"fake"
-"happy birthday"
-"SI"
+
 
